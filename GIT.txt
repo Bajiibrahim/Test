@@ -1,0 +1,21 @@
+git checkout -B name/brachename
+
+
+
+git clone link
+
+
+git status
+
+
+git pull
+
+
+git add
+
+
+git commit	--am "explanation"
+
+git push origin branch name
+
+
